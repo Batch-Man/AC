@@ -11,15 +11,15 @@ AUTHOR:	**MICHA£ BUKOWSKI**
 
 	addition 				(+)			WORKS	syntax: x+y
 	subtraction				(-)			WORKS	syntax: x-y
-	multiplication			(*)			WORKS	syntax: x*y
+	multiplication				(*)			WORKS	syntax: x*y
 	division				(/)			WORKS	syntax: x/y
-	exponentiation			(^)			WORKS	syntax: XpowY	(X^Y)
+	exponentiation				(^)			WORKS	syntax: XpowY	(X^Y)
 	sqrt					(√)			WORKS	syntax: sqrt(x)
-	natural logharitm		(log_n)		WORKS	syntax: log_n(x)
-	degree to radian conv	(dtr)		WORKS	syntax: x[dtr]
-	radian to degree conv	(rtd)		WORKS	syntax: x[rtd]
-	sine 	(radian)		(sin)		WORKS	syntax: sin(x)
-	cosine	(radian)		(cos)		WORKS	syntax: cos(x)
+	natural logharitm			(log_n)			WORKS	syntax: log_n(x)
+	degree to radian conv			(dtr)			WORKS	syntax: x[dtr]
+	radian to degree conv			(rtd)			WORKS	syntax: x[rtd]
+	sine 	(radian)			(sin)			WORKS	syntax: sin(x)
+	cosine	(radian)			(cos)			WORKS	syntax: cos(x)
 
 
 
@@ -41,13 +41,8 @@ Rounding Usage:
 ​	Eg. call ac.bat r 0.02777777777777777777 4 var2
 ​	OUTPUT: VAR2=0.0278
 
-
-
 ​	Eg. call ac.bat r 1.9091 0 var3
 ​	OUTPUT: VAR3=2
-
-
-
 
 -------------------------------------------
 Calculation + Rounding Usage:
@@ -56,8 +51,6 @@ Calculation + Rounding Usage:
 
 ​	Eg. call ac.bat c (1/7)*3.5/(11+7) var4 r 4
 ​	OUTPUT: VAR4=0.0278
-
-
 
 ​	Eg. call ac.bat c 12*7/(11/7) var5 r 0
 ​	OUTPUT: VAR5=53
