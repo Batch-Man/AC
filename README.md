@@ -54,3 +54,6 @@ Calculation + Rounding Usage:
 
 ​	Eg. call ac.bat c 12*7/(11/7) var5 r 0
 ​	OUTPUT: VAR5=53
+
+--------------------------------------------
+Article- https://batch-man.com/evaluate-complex-math-expressions-in-batch/
