@@ -1,11 +1,12 @@
 # AC Function 1.1
-**Description:**
-It allows Precise Mathematical Calculation with advanced math functions.
+## Description
+It allows precise mathematical calculation with advanced math functions.
 
-**Note:**
-This Project ***uses dependencies*** in order to work properly, so keep all the files together in the same folder/PATH.
+## Note
+This project ***uses dependencies*** in order to work properly, so keep all the files together in the same folder/path.
 
-AUTHOR:	**MICHA£ BUKOWSKI**
+### Author
+**MICHAL BUKOWSKI**
 
 # USAGE
 
@@ -15,7 +16,7 @@ AUTHOR:	**MICHA£ BUKOWSKI**
 	division				(/)			WORKS	syntax: x/y
 	exponentiation				(^)			WORKS	syntax: XpowY	(X^Y)
 	sqrt					(√)			WORKS	syntax: sqrt(x)
-	natural logharitm			(log_n)			WORKS	syntax: log_n(x)
+	natural logarithm			(log_n)			WORKS	syntax: log_n(x)
 	degree to radian conv			(dtr)			WORKS	syntax: x[dtr]
 	radian to degree conv			(rtd)			WORKS	syntax: x[rtd]
 	sine 	(radian)			(sin)			WORKS	syntax: sin(x)
@@ -25,7 +26,7 @@ AUTHOR:	**MICHA£ BUKOWSKI**
 
 
 -------------------------------------------
-Calculation Usage:
+Calculation usage:
 
 <code>CALL AC.BAT C [CALCULATIONS] [OUTPUT VARIABLE]</code>
 
@@ -34,7 +35,7 @@ Calculation Usage:
 
 
 -------------------------------------------
-Rounding Usage:
+Rounding usage:
 
 <code>CALL AC.BAT R [VALUE] [DECIMALS] [OUTPUT VARIABLE]</code>
 
@@ -45,7 +46,7 @@ Rounding Usage:
 ​	OUTPUT: VAR3=2
 
 -------------------------------------------
-Calculation + Rounding Usage:
+Calculation + rounding usage:
 
 <code>CALL AC.BAT C [CALCULATIONS] [OUTPUT VARIABLE] R [DECIMALS]</code>
 
