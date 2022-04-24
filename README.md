@@ -30,8 +30,8 @@ Calculation usage:
 
 <code>CALL AC.BAT C [CALCULATIONS] [OUTPUT VARIABLE]</code>
 
-​	Eg. call ac.bat c (1/7)*3.5/(11+7) var1
-​	OUTPUT: VAR1=0.02777777777777777777
+​	Eg. `call ac.bat c (1/7)*3.5/(11+7) var1`
+​	Output: VAR1=0.02777777777777777777
 
 
 -------------------------------------------
