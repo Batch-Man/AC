@@ -1,4 +1,4 @@
-# AC Function 1.1
+# AC Function 
 ## Description
 It allows precise mathematical calculation with advanced math functions.
 
